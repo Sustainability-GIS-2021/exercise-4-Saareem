@@ -26,11 +26,11 @@ Use the lesson materials and the recommended readings (optional) as a source of 
 
 ### My answer
 
-Ending the poverty is one of the main sustainability goals of United Nations Development Programme (UNDP). That sounds very ambitious and respectable mission, but its progress is difficult to measure. First of all, there should be clear and widely accepted definition for poverty. People who are poor in Finland, is not necessarily poor in Mozambique. Should people’s poverty be measured individually, nationally or globally? 
+Ending the poverty is one of the main sustainability goals of United Nations Development Programme (UNDP). The mission sounds very ambitious and respectable, but its progress is difficult to measure. First, there should be clear and widely accepted definition for poverty. People who are poor in Finland, are not necessarily poor in Mozambique. Should people’s poverty be measured individually, nationally or globally? 
 
-Maybe the most common global indicator of poverty is to calculate amount of people who live on less than 2 dollars a day. Although the total number has decreased in the past years, the indicator contains lot of contradictions. Two dollars is not as valuable everywhere in the world and everything can’t be measured in dollars. If you live in the city, you have to buy everything you need, but in the countryside, you can utilize nature and agriculture. Money doesn’t matter so much in circular or self-sufficiency economy.
+Maybe the most common global indicator of poverty is to calculate the amount of people who live on less than 2 dollars a day. Although the amount has decreased in the past years, the indicator contains lot of contradictions. Two dollars is not as valuable everywhere in the world and everything can’t be measured in dollars. If you live in the city, you have to buy everything you need, but in the countryside, you can utilize nature and agriculture. Money doesn’t matter so much in circular or self-sufficiency economy.
 
-Actually, poverty is only a second half of economic inequality. Measuring just only poor or rich people doesn’t tell much about differences within the region. Inequality is always a relative to something, like other people. 
+In fact, poverty is only a second half of economic inequality. Measuring just only poor or rich people doesn’t tell much about differences within the region. Inequality is always a relative to something, like other people. 
 
 For that problem, there are developed also relative measurements. Maybe the most well-known is Gini-index that aims to measure degree of inequality in distribution in a specific region.  If region has Gini-value 1, everyone earns same amount of money, and if Gini-value is close to zero, situation is the opposite.
 
